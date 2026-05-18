@@ -1,9 +1,0 @@
-[submodule "microservices/temperature-monitoring"]
-	path = microservices/temperature-monitoring
-	url = https://github.com/pedropaulo4/ems-algasensors-temperature-monitoring.git
-[submodule "microservice/temperature-processing"]
-	path = microservice/temperature-processing
-	url = https://github.com/pedropaulo4/ems-algasensors-temperature-processing.git
-[submodule "microservice/devide-management"]
-	path = microservice/devide-management
-	url = https://github.com/pedropaulo4/ems-algasensors-device-management.git
